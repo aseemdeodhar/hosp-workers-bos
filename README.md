@@ -10,5 +10,5 @@ Among these essential workers, are also healthcare workers - who deal with and h
 
 In case of prolonged and/or heightened intensity of the current crisis, as well as possible future crises, how can this unique requirement be addressed? Can we develop dedicated transportation services for healthcare workers between home and work?
 
-This is a project under development, using data shared by the generous folks at the [Transit App](https://transitapp.com/coronavirus) for research purposes only. Due to the proprietary and potentially identifiable nature of these data, I of course cannot share them with you, but if you have any ideas for the way this project may potentially take shape, please send me an email, and I would love to figure out a way to collaborate!
+This is a project under development, using data shared by the generous folks at the [Transit App](https://transitapp.com/coronavirus) for research purposes only. Due to the proprietary and potentially identifiable nature of these data, I cannot share them, but if you have any ideas for the way this project may potentially take shape, please send me an email (aseemvdeodhar at gmail dot com), and I would love to figure out a way to collaborate!
 
